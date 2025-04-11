@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/7ecb657d0c66afa1f79aa249154e953107930b8b402a30295b159f01e4ace730/68747470733a2f2f6d656469612e74656e6f722e636f6d2f73435a366668344731434941414141692f6372792d637279696e672e676966" width="100"/>
+  <img src="https://images.steamusercontent.com/ugc/2457349000346092812/A898008C6BB5BB75DD5CDDCB345649441CB1DAA6/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true="100"/>
 </div>
